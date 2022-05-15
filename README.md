@@ -1,4 +1,4 @@
-# ⚡ HTML password generator with JS
+# ⚡ Email sender with NodeJS
 
 Welcome! I have created a cool example of a email sender with NodeJS!
 
